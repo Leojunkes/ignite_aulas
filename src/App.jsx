@@ -1,5 +1,7 @@
+import './styles/global.scss';
+
 export function App(){
     return(
-        <h1>Ola Leonardo</h1>
+        <h1>Ola garotas lindas amadas</h1>
     )
 }
